@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<!--
-   Config.plist
-   DishTime
-
-   Created by Maniraj on 3/3/26.
-   Copyright (c) 2026 ___ORGANIZATIONNAME___. All rights reserved.
--->
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>GeminiAPIKey</key>
+	<string>AIzaSyDvwCmCkZDg01KrAVmBXocveDTov-rONKo</string>
+	<key>GooglePlacesAPIKey</key>
+	<string>AIzaSyBbA1g6KfMxjFHN4HU4nqgij_DJIK1nscY</string>
+</dict>
 </plist>
